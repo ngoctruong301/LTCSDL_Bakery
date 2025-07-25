@@ -38,10 +38,10 @@ Gồm các bảng:
 - [Form Báo cáo thống kê] (images/report.jpeg)
 - [Form Chat bot] (images/chatbot.jpeg)
 ## Cách cài đặt và chạy
-1. Clone repo:
+- Clone repo:
    ```bash
    git clone https://github.com/ngoctruong301/LTCSDL_Bakery.git
-Mở file .sln trong Visual Studio
-Khôi phục CSDL SQL Server từ file backup nếu có (.bak)
-Cập nhật chuỗi kết nối (connection string) trong project cho đúng thông tin máy bạn
-Build & Run project
+- Mở file .sln trong Visual Studio
+- Khôi phục CSDL SQL Server từ file backup nếu có (.bak)
+- Cập nhật chuỗi kết nối (connection string) trong project cho đúng thông tin máy bạn
+- Build & Run project
